@@ -1,0 +1,22 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+ }
+
+ h1, h2, h3 {
+ 	font-family: 'Roboto'; 
+ 	font-weight: bold; 
+ 	
+ }
+
+ a {
+ 	font-family: 'Roboto';
+ 	text-decoration: none;
+ }
+
+ p {
+ 	text-align: justify;
+ }
