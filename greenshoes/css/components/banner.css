@@ -1,0 +1,22 @@
+ .banner {
+ 	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(../../images/ecofriendly.jpg);
+ 	color: white;
+ 	padding: 10px 0px;
+ 	background-size: cover;
+ 	background-position: center;
+ }
+
+ .banner h1 {
+ 	font-size: 80px;
+ 	color: green;
+ 	font-family: 'Roboto';
+ }
+
+ .banner h2 {
+ 	font-size: 40px;
+ 	font-weight: lighter;
+ 	opacity: 0.8;
+ 	margin-bottom: 40px;
+ 	color: white;
+ 	font-family: 'Roboto';
+ }
